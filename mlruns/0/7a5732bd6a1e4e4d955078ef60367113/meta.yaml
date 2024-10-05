@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sparshjhariya/Desktop/TECHY/Learn/aws/End-to-End-Chest-Cancer-Classification-using-MLflow-DVC/example/mlruns/0/7a5732bd6a1e4e4d955078ef60367113/artifacts
+end_time: 1728104770281
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a5732bd6a1e4e4d955078ef60367113
+run_name: able-shrike-512
+run_uuid: 7a5732bd6a1e4e4d955078ef60367113
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728104765292
+status: 3
+tags: []
+user_id: sparshjhariya
